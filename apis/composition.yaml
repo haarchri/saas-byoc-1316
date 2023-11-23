@@ -55,5 +55,3 @@ spec:
               namespace: crossplane-system
               key: authToken
       name: providerconfig
-      readinessChecks:
-        - type: None
